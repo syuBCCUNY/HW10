@@ -1,0 +1,18 @@
+
+C:\Users\[username]\Desktop\java\HW10>java HW10
+Found following plugins:
+pluginA.class
+pluginB.class
+Enter A or B to use said plugin:
+A
+A says Sup.
+A says Later.
+
+C:\Users\[username]\Desktop\java\HW10>java HW10
+Found following plugins:
+pluginA.class
+pluginB.class
+Enter A or B to use said plugin:
+B
+B says Hello.
+B says Goodbye.
